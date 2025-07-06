@@ -1,13 +1,52 @@
 # HTML Projects
 
-A collection of small web projects built with vanilla HTML, CSS, and JavaScript.  
-Browse the live demos or dive into the code in each folder.
-
-| Project           | Description                                                | Live Demo                                                     |
-|-------------------|------------------------------------------------------------|---------------------------------------------------------------|
-| Driving Game      | A simple canvas-based car driving game with scoring.       | https://QWE-Ult.github.io/HTML-Projects/driving-game/         |
-| Music Player      | Custom audio player with play/pause, track list, and UI.  | https://QWE-Ult.github.io/HTML-Projects/music-player/        |
-| Facebook Clone    | Static layout mimicking Facebook’s desktop interface.      | https://QWE-Ult.github.io/HTML-Projects/facebook-clone/      |
-
+A curated collection of three small web projects built with vanilla HTML, CSS & JavaScript. Each folder contains a self-contained demo you can open directly in your browser.
 
 ---
+
+## Projects
+
+### 1. Driving Game  
+A minimal car-driving arcade game using the `<canvas>` API.  
+**Features:**  
+- Arrow-key controls for steering and acceleration  
+- Procedurally scrolling road background  
+- Collision detection with simple obstacles  
+- Score counter and game-over screen  
+
+### 2. Music Player  
+A lightweight audio player interface built from scratch.  
+**Features:**  
+- Play / pause / stop controls  
+- Track list with clickable titles  
+- Progress bar scrubber  
+- Volume slider  
+
+### 3. Facebook Clone  
+A static recreation of Facebook’s desktop feed layout.  
+**Features:**  
+- Responsive header and sidebar navigation  
+- Post feed with profile pictures, timestamps, and like/comment buttons (non-functional)  
+- Profile cards and friends list placeholders  
+- Uses CSS Grid and Flexbox for layout  
+
+---
+
+## Repository Structure
+
+HTML-Projects/
+├─ driving-game/
+│ ├─ assets/ ← images (car sprites, road textures)
+│ ├─ css/ ← style.css
+│ ├─ js/ ← game.js
+│ └─ index.html
+├─ music-player/
+│ ├─ assets/ ← audio files (.mp3/.wav)
+│ ├─ css/ ← style.css
+│ ├─ js/ ← player.js
+│ └─ index.html
+├─ facebook-clone/
+│ ├─ assets/ ← avatar and icon images
+│ ├─ css/ ← layout.css, feed.css, sidebar.css
+│ └─ index.html
+└─ README.md ← this file
