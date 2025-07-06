@@ -32,21 +32,3 @@ A static recreation of Facebook’s desktop feed layout.
 
 ---
 
-## Repository Structure
-
-HTML-Projects/
-├─ driving-game/
-│ ├─ assets/ ← images (car sprites, road textures)
-│ ├─ css/ ← style.css
-│ ├─ js/ ← game.js
-│ └─ index.html
-├─ music-player/
-│ ├─ assets/ ← audio files (.mp3/.wav)
-│ ├─ css/ ← style.css
-│ ├─ js/ ← player.js
-│ └─ index.html
-├─ facebook-clone/
-│ ├─ assets/ ← avatar and icon images
-│ ├─ css/ ← layout.css, feed.css, sidebar.css
-│ └─ index.html
-└─ README.md ← this file
