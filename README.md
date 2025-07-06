@@ -11,7 +11,7 @@ Browse the live demos or dive into the code in each folder.
 | Driving Game      | A simple canvas-based car driving game with scoring.       | https://QWE-Ult.github.io/HTML-Projects/driving-game/         |
 | Music Player      | Custom audio player with play/pause, track list, and UI.  | https://QWE-Ult.github.io/HTML-Projects/music-player/        |
 | Facebook Clone    | Static layout mimicking Facebook’s desktop interface.      | https://QWE-Ult.github.io/HTML-Projects/facebook-clone/      |
-| …other projects…  | …short description…                                        | …URL…                                                          |
+
 
 ---
 
