@@ -11,10 +11,3 @@ Browse the live demos or dive into the code in each folder.
 
 
 ---
-
-## How to run locally
-
-  
-   ```bash
-   git clone https://github.com/QWE-Ult/HTML-Projects.git
-   cd HTML-Projects
