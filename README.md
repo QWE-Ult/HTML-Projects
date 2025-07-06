@@ -1,6 +1,3 @@
-# HTML-Projects
-In this Repo there are Basic HTML Projects.
-
 # HTML Projects
 
 A collection of small web projects built with vanilla HTML, CSS, and JavaScript.  
@@ -17,7 +14,7 @@ Browse the live demos or dive into the code in each folder.
 
 ## How to run locally
 
-1.  
+  
    ```bash
    git clone https://github.com/QWE-Ult/HTML-Projects.git
    cd HTML-Projects
